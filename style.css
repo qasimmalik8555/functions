@@ -1,0 +1,11 @@
+h1{
+    color: black;
+font-weight: bolder;
+}
+
+body{
+    background-color:skyblue;
+    font-size: 25px;
+    font-weight: lighter;
+     text-align: center;    
+}
